@@ -2,7 +2,7 @@ import React from 'react'
 import { css } from '@emotion/core'
 import { bpMaxSM } from '../lib/breakpoints'
 import SubscribeForm from './Forms/Subscribe'
-import { Twitter, GitHub } from './Social'
+import { Twitter } from './Social'
 import Container from './Container'
 
 const Footer = ({ author, noSubscribeForm }) => (
@@ -39,7 +39,7 @@ const Footer = ({ author, noSubscribeForm }) => (
         </div>
         <div>
           <Twitter />
-          <GitHub />
+          {/* <GitHub /> */}
         </div>
       </div>
     </Container>
