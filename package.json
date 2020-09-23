@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-egghead-blog",
-  "description": "This is a starter for egghead content creator blogs",
+  "name": "curious_hr",
+  "description": "Decoding human resource, labour legislations, industrial relations",
   "version": "1.0.0",
-  "author": "egghead.io <support@egghead.io> (https://egghead.io)",
-  "repository": "https://github.com/eggheadio/gatsby-starter-egghead-blog",
+  "author": "Anand",
+  "repository": "https://github.com/sarrafanand/curioushr",
   "dependencies": {
     "@callstack/react-theme-provider": "^3.0.5",
     "@emotion/core": "^10.0.22",
