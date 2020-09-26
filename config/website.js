@@ -16,7 +16,7 @@ module.exports = {
   userTwitter: '@anandsarraf7', // Twitter Username
   ogSiteName: 'Curious HR', // Facebook Site Name
   ogLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-179082149-1',
 
   // Manifest and Progress color
   themeColor: '#de4463',
